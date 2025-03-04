@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Edith's Boutique</title>
-<style>
+    <style>
         body {
             font-family: Arial, sans-serif;
             margin: 0;
@@ -42,12 +42,11 @@
             width: 100%;
             bottom: 0;
         }
+    </style>
 </head>
 <body>
-    </style>
- <header>Edith's Boutique</header>
- <div id="divbanner"></div>
-<div class="container">
+    <header>Edith's Boutique</header>
+    <div class="container">
         <div class="product">
             <img src="white brasil.jpg" alt="White Brasil T-Shirt">
             <p>White Brasil T-Shirt</p>
@@ -64,5 +63,8 @@
             <img src="blue jorts.jpg" alt="Denim Shorts">
             <p>Denim Shorts</p>
         </div>
- </body>
- </html>
+    </div>
+    <footer>&copy; 2025 Edith's Boutique. All rights reserved.</footer>
+</body>
+</html>
+
